@@ -1,0 +1,45 @@
+
+
+header{
+   background-image: url(./Background_Image.jpg) ;
+   background-size: cover;
+   height: 700px;
+   
+}
+section{
+    color: white;
+    font-weight:750;
+    
+}
+
+.Heading{
+    margin-top: 150px;
+    
+    
+}
+ 
+main{
+  border-top: 5px solid grey;
+  background-color: black;
+ 
+}
+
+a:link { text-decoration: none; }
+
+
+a:visited { text-decoration: none; }
+
+
+a:hover { text-decoration: none; }
+
+
+a:active { text-decoration: none; }
+
+a{
+  color: gray;
+}
+
+.headingone{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 50px;
+}
